@@ -2,7 +2,7 @@
 -compile(export_all).
 
 start()->
-	io:format("hello my name is bertie~n").
+	io:format("hello my name is be2rtie~n").
 
 
 
